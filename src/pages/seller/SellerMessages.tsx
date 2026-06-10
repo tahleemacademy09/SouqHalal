@@ -1,0 +1,1 @@
+export default function SellerMessages() { return <div className='p-6'><h1 className='font-serif text-2xl text-forest mb-2'>SellerMessages</h1><p className='text-muted text-sm'>This page is being built.</p></div> }
